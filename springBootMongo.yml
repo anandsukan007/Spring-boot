@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: dockerhandson/spring-boot-mongo
+      - image: anandsukan007/speedy
         name: springboot
         ports:
         - name: springboot
